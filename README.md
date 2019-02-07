@@ -11,6 +11,6 @@ Is only for Ubuntu 14.04 LTS and Debian 7 or ether.
 
 4. Use "./xt-2.2.0-nulled.sh"
 
-5. Enter license key: 3d5b0f8e468c332
+5. Enter license key: 3d5b0f8e468c332 ((Not Working))
 
 6. Restart system and done! Enjoy!
